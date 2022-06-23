@@ -70,3 +70,19 @@ Create a directory
 mv SOURCE DESTINATION
 ```
 Move file from one locatiton to another
+
+
+
+
+```
+rm FILE_PATH
+```
+Delete file
+
+
+
+
+```
+rmdir DIRECTORY_PATH
+```
+Delete directory
