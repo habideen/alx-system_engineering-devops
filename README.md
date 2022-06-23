@@ -1,4 +1,4 @@
-#Shell scripts
+# Shell scripts
 
 This repo is create to demonstrated how shell sripting works
 
