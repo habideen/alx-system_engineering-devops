@@ -23,3 +23,10 @@ Display the list of files in current directory
 cd
 ```
 Go to home directory
+
+
+```
+ls -l
+```
+Display current directory contents in a long format
+
