@@ -54,3 +54,19 @@ Display current directory contents, including hidden files (starting with .)
 ls -na
 ```
 Display current directory content, long format, with user and group IDs displayed numerically, and hidden files (starting with .)
+
+
+
+
+```
+mkdir DIRECTORY_NAME
+```
+Create a directory
+
+
+
+
+```
+mv SOURCE DESTINATION
+```
+Move file from one locatiton to another
