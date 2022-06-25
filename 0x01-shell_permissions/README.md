@@ -20,6 +20,6 @@ Add multiple permission to a file `chmod u+x,g+x,o+r FILE_NAME` or `chmod 554 FI
 
 Give everyone permission to execute `chmod ugo+x FILE_NAME`
 
-
+Give no permission to owner and group. Give all to other `chmod 007 FILE_NAME`
 
 
