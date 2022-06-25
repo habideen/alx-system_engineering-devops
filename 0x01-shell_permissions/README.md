@@ -22,4 +22,8 @@ Give everyone permission to execute `chmod ugo+x FILE_NAME`
 
 Give no permission to owner and group. Give all to other `chmod 007 FILE_NAME`
 
+Give the permission of file A to file B `chmod --reference=A B`
+
+
+
 
