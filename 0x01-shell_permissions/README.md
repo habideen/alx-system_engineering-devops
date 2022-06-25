@@ -8,6 +8,8 @@ Change user `su USE_NAME`
 Print current user username `id -un`
 
 
-Print list of groups of the system `groups` 
+Print list of groups of the system `groups`
+
+Change file owner `chown USER_NAME FILE` 
 
 
