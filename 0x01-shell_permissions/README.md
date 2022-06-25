@@ -24,6 +24,6 @@ Give no permission to owner and group. Give all to other `chmod 007 FILE_NAME`
 
 Give the permission of file A to file B `chmod --reference=A B`
 
-
+Direcoty permission `chmod -R ugo+X .`
 
 
