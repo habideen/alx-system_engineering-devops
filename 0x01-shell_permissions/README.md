@@ -10,6 +10,8 @@ Print current user username `id -un`
 
 Print list of groups of the system `groups`
 
-Change file owner `chown USER_NAME FILE` 
+Change file owner `chown USER_NAME FILE`
+
+Create an empty file `touch FILE_NAME` 
 
 
