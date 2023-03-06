@@ -136,3 +136,22 @@ $
 - GitHub repository: `alx-system_engineering-devops`
 - Directory: `0x06-regular_expressions`
 - File: [3-repetition_token_2.rb](3-repetition_token_2.rb)
+
+---
+
+### 4. Repetition Token #3
+
+(Mandatory)
+![Sample image](img/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png)
+
+**Requirements:**
+
+- Find the regular expression that will match the above cases
+- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+- Your regex should not contain square brackets
+
+**Repo:**
+
+- GitHub repository: `alx-system_engineering-devops`
+- Directory: `0x06-regular_expressions`
+- File: [4-repetition_token_3.rb](4-repetition_token_3.rb)
