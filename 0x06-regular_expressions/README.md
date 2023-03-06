@@ -100,3 +100,21 @@ $
 - GitHub repository: `alx-system_engineering-devops`
 - Directory: `0x06-regular_expressions`
 - File: [1-repetition_token_0.rb](1-repetition_token_0.rb)
+
+---
+
+### Repetition Token #1
+
+(Mandatory)
+![Sample image](img/c59ff11db195d5cf17d1790a5141ae2f234786d2.png)
+
+**Requirements:**
+
+- Find the regular expression that will match the above cases
+- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+
+**Repo:**
+
+- GitHub repository: `alx-system_engineering-devops`
+- Directory: `0x06-regular_expressions`
+- File: [2-repetition_token_1.rb](2-repetition_token_1.rb)
