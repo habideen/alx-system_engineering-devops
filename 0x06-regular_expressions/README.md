@@ -187,3 +187,34 @@ $
 - GitHub repository: `alx-system_engineering-devops`
 - Directory: `0x06-regular_expressions`
 - File: [5-beginning_and_end.rb](5-beginning_and_end.rb)
+
+---
+
+### 6. Call me maybe
+
+(Mandatory)
+
+This task is brought to you by a professional advisor [Neha Jain](https://intranet.alxswe.com/rltoken/GqwvXAvTXR_JXqyTvZ4AzQ), Senior Software Engineer at LinkedIn.
+
+**Requirement:**
+
+- The regular expression must match a 10 digit phone number
+  **Example:**
+
+```
+sylvain@ubuntu$ ./6-phone_number.rb 4155049898 | cat -e
+4155049898$
+sylvain@ubuntu$ ./6-phone_number.rb " 4155049898" | cat -e
+$
+sylvain@ubuntu$ ./6-phone_number.rb "415 504 9898" | cat -e
+$
+sylvain@ubuntu$ ./6-phone_number.rb "415-504-9898" | cat -e
+$
+sylvain@ubuntu$
+```
+
+Repo:
+
+- GitHub repository: `alx-system_engineering-devops`
+- Directory: `0x06-regular_expressions`
+- File: [6-phone_number.rb](6-phone_number.rb)
