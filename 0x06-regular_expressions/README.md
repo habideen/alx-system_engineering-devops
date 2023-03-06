@@ -57,6 +57,7 @@ Read or watch:
 ### 0. Simply matching School
 
 (Mandatory)
+![Sample Image](img/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png)
 
 **Requirements:**
 
@@ -80,4 +81,22 @@ $
 
 - GitHub repository: `alx-system_engineering-devops`
 - Directory: `0x06-regular_expressions`
-- File: `0-simply_match_school.rb`
+- File: [0-simply_match_school.rb](0-simply_match_school.rb)
+
+---
+
+### 1. Repetition Token #0
+
+(Mandatory)
+![Sample image](img/e7db3c377d46453588fc84f3a975661d142fee91.png)
+
+**Requirements:**
+
+- Find the regular expression that will match the above cases
+- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+
+**Repo:**
+
+- GitHub repository: `alx-system_engineering-devops`
+- Directory: `0x06-regular_expressions`
+- File: [1-repetition_token_0.rb](1-repetition_token_0.rb)
